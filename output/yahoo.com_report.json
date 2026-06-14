@@ -1,0 +1,334 @@
+[
+  {
+    "subdomain": "mail.yahoo.com",
+    "ips": [
+      "180.222.114.12",
+      "106.10.236.40",
+      "106.10.236.37",
+      "180.222.114.11"
+    ],
+    "status_code": 200,
+    "title": "Yahoo Mail | Email with smart features and top-notch security",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "download.yahoo.com",
+    "ips": [
+      "13.248.158.7",
+      "76.223.84.192"
+    ],
+    "status_code": 200,
+    "title": "No Title",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "help.yahoo.com",
+    "ips": [
+      "106.10.236.40",
+      "180.222.114.11",
+      "180.222.114.12",
+      "106.10.236.37"
+    ],
+    "status_code": 200,
+    "title": "Help for your Yahoo Account",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "docs.yahoo.com",
+    "ips": [
+      "13.248.158.7",
+      "76.223.84.192"
+    ],
+    "status_code": 200,
+    "title": "Newsroom | Yahoo Inc.",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "jobs.yahoo.com",
+    "ips": [
+      "13.248.158.7",
+      "76.223.84.192"
+    ],
+    "status_code": 200,
+    "title": "Careers | Yahoo",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "shop.yahoo.com",
+    "ips": [
+      "13.248.158.7",
+      "76.223.84.192"
+    ],
+    "status_code": 200,
+    "title": "Yahoo Shopping: The Best Deals and Reviews on Clothing, Beauty, Home essentials,",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "test.yahoo.com",
+    "ips": [
+      "1.1.1.1"
+    ],
+    "status_code": 403,
+    "title": "Edge IP Restricted | test.yahoo.com | Cloudflare",
+    "server": "cloudflare",
+    "live": true,
+    "protocol": "http",
+    "priority": 40
+  },
+  {
+    "subdomain": "verify.yahoo.com",
+    "ips": [
+      "106.10.248.157"
+    ],
+    "status_code": 401,
+    "title": "No Title",
+    "server": "ATS",
+    "live": true,
+    "protocol": "http",
+    "priority": 40
+  },
+  {
+    "subdomain": "server.yahoo.com",
+    "ips": [
+      "13.248.158.7",
+      "76.223.84.192"
+    ],
+    "status_code": 404,
+    "title": "Yahoo",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "www.yahoo.com",
+    "ips": [
+      "106.10.236.40",
+      "180.222.114.11",
+      "106.10.236.37",
+      "180.222.114.12"
+    ],
+    "status_code": 429,
+    "title": "No Title",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "blog.yahoo.com",
+    "ips": [
+      "76.223.84.192",
+      "13.248.158.7"
+    ],
+    "status_code": 404,
+    "title": "Yahoo",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "video.yahoo.com",
+    "ips": [
+      "13.248.158.7",
+      "76.223.84.192"
+    ],
+    "status_code": 429,
+    "title": "No Title",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "beta.yahoo.com",
+    "ips": [
+      "76.223.84.192",
+      "13.248.158.7"
+    ],
+    "status_code": 429,
+    "title": "No Title",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "sandbox.yahoo.com",
+    "ips": [
+      "76.223.84.192",
+      "13.248.158.7"
+    ],
+    "status_code": 429,
+    "title": "No Title",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "new.yahoo.com",
+    "ips": [
+      "13.248.158.7",
+      "76.223.84.192"
+    ],
+    "status_code": 429,
+    "title": "No Title",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "login.yahoo.com",
+    "ips": [
+      "106.10.236.40",
+      "180.222.114.12",
+      "180.222.114.11",
+      "106.10.236.37"
+    ],
+    "status_code": 429,
+    "title": "No Title",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "analytics.yahoo.com",
+    "ips": [
+      "76.223.84.192",
+      "13.248.158.7"
+    ],
+    "status_code": 429,
+    "title": "No Title",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "secure.yahoo.com",
+    "ips": [
+      "13.248.158.7",
+      "76.223.84.192"
+    ],
+    "status_code": 429,
+    "title": "No Title",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "search.yahoo.com",
+    "ips": [
+      "106.10.218.137"
+    ],
+    "status_code": 500,
+    "title": "No Title",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "gateway.yahoo.com",
+    "ips": [
+      "76.223.84.192",
+      "13.248.158.7"
+    ],
+    "status_code": 429,
+    "title": "No Title",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "account.yahoo.com",
+    "ips": [
+      "76.223.84.192",
+      "13.248.158.7"
+    ],
+    "status_code": 429,
+    "title": "No Title",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "checkout.yahoo.com",
+    "ips": [
+      "180.222.114.11",
+      "180.222.114.12",
+      "106.10.236.40",
+      "106.10.236.37"
+    ],
+    "status_code": 429,
+    "title": "No Title",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "office.yahoo.com",
+    "ips": [
+      "76.223.84.192",
+      "13.248.158.7"
+    ],
+    "status_code": 404,
+    "title": "Yahoo Shopping: The Best Deals and Reviews on Clothing, Beauty, Home essentials,",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "live.yahoo.com",
+    "ips": [
+      "13.248.158.7",
+      "76.223.84.192"
+    ],
+    "status_code": 429,
+    "title": "No Title",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "payment.yahoo.com",
+    "ips": [
+      "76.223.84.192",
+      "13.248.158.7"
+    ],
+    "status_code": 429,
+    "title": "No Title",
+    "server": "ATS",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  }
+]

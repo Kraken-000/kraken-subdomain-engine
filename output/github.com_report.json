@@ -1,0 +1,182 @@
+[
+  {
+    "subdomain": "blog.github.com",
+    "ips": [
+      "185.199.108.153",
+      "185.199.109.153",
+      "185.199.110.153",
+      "185.199.111.153"
+    ],
+    "status_code": 200,
+    "title": "Home - The GitHub Blog",
+    "server": "nginx",
+    "live": true,
+    "protocol": "https",
+    "priority": 60
+  },
+  {
+    "subdomain": "admin.github.com",
+    "ips": [
+      "140.82.113.23"
+    ],
+    "status_code": 200,
+    "title": "GitHub, Inc. - Prod - Sign In",
+    "server": "nginx",
+    "live": true,
+    "protocol": "https",
+    "priority": 60
+  },
+  {
+    "subdomain": "api.github.com",
+    "ips": [
+      "20.205.243.168"
+    ],
+    "status_code": 200,
+    "title": "No Title",
+    "server": "github.com",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "docs.github.com",
+    "ips": [
+      "185.199.108.154",
+      "185.199.109.154",
+      "185.199.110.154",
+      "185.199.111.154"
+    ],
+    "status_code": 200,
+    "title": "No Title",
+    "server": "Unknown",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "support.github.com",
+    "ips": [
+      "185.199.108.133",
+      "185.199.111.133",
+      "185.199.110.133",
+      "185.199.109.133"
+    ],
+    "status_code": 200,
+    "title": "Sign in for Software Support and Product Help - GitHub Support",
+    "server": "Unknown",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "www.github.com",
+    "ips": [
+      "20.205.243.166"
+    ],
+    "status_code": 200,
+    "title": "GitHub \u00b7 Change is constant. GitHub keeps you ahead. \u00b7 GitHub",
+    "server": "github.com",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "shop.github.com",
+    "ips": [
+      "20.205.243.166"
+    ],
+    "status_code": 200,
+    "title": "GitHub Shop",
+    "server": "cloudflare",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "ssh.github.com",
+    "ips": [
+      "20.205.243.160"
+    ],
+    "status_code": 200,
+    "title": "GitHub \u00b7 Change is constant. GitHub keeps you ahead. \u00b7 GitHub",
+    "server": "github.com",
+    "live": true,
+    "protocol": "http",
+    "priority": 50
+  },
+  {
+    "subdomain": "help.github.com",
+    "ips": [
+      "140.82.113.18"
+    ],
+    "status_code": 200,
+    "title": "Sign in for Software Support and Product Help - GitHub Support",
+    "server": "Unknown",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "services.github.com",
+    "ips": [
+      "140.82.112.17"
+    ],
+    "status_code": 200,
+    "title": "Expert Services | GitHub \u00b7 GitHub",
+    "server": "github.com",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "status.github.com",
+    "ips": [
+      "140.82.112.17"
+    ],
+    "status_code": 200,
+    "title": "GitHub Status",
+    "server": "AtlassianEdge",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "github.github.com",
+    "ips": [
+      "185.199.108.153",
+      "185.199.109.153",
+      "185.199.110.153",
+      "185.199.111.153"
+    ],
+    "status_code": 404,
+    "title": "Site not found &middot; GitHub Pages",
+    "server": "GitHub.com",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "live.github.com",
+    "ips": [
+      "140.82.114.26"
+    ],
+    "status_code": 404,
+    "title": "No Title",
+    "server": "github.com",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  },
+  {
+    "subdomain": "wiki.github.com",
+    "ips": [
+      "140.82.113.18"
+    ],
+    "status_code": 400,
+    "title": "Bad request &middot; GitHub",
+    "server": "Unknown",
+    "live": true,
+    "protocol": "https",
+    "priority": 0
+  }
+]

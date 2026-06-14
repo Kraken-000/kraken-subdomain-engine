@@ -1,0 +1,76 @@
+[
+  {
+    "subdomain": "cloud.dpr.go.id",
+    "ips": [
+      "103.168.126.195"
+    ],
+    "status_code": 200,
+    "title": "Pusat Data Parlemen",
+    "server": "Apache/2.4.41 (Ubuntu)",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "imap.dpr.go.id",
+    "ips": [
+      "103.168.126.215"
+    ],
+    "status_code": 200,
+    "title": "Outlook",
+    "server": "Unknown",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "mail.dpr.go.id",
+    "ips": [
+      "103.168.126.215"
+    ],
+    "status_code": 200,
+    "title": "Outlook",
+    "server": "Unknown",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "autodiscover.dpr.go.id",
+    "ips": [
+      "103.168.126.215"
+    ],
+    "status_code": 200,
+    "title": "Outlook",
+    "server": "Unknown",
+    "live": true,
+    "protocol": "https",
+    "priority": 50
+  },
+  {
+    "subdomain": "www.dpr.go.id",
+    "ips": [
+      "23.219.205.41",
+      "23.219.205.27"
+    ],
+    "status_code": 403,
+    "title": "Access Denied",
+    "server": "Unknown",
+    "live": true,
+    "protocol": "https",
+    "priority": 40
+  },
+  {
+    "subdomain": "data.dpr.go.id",
+    "ips": [
+      "23.219.205.72",
+      "23.219.205.83"
+    ],
+    "status_code": 403,
+    "title": "Access Denied",
+    "server": "Unknown",
+    "live": true,
+    "protocol": "https",
+    "priority": 40
+  }
+]

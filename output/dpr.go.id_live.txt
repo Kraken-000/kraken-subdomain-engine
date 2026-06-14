@@ -1,0 +1,6 @@
+cloud.dpr.go.id
+imap.dpr.go.id
+mail.dpr.go.id
+autodiscover.dpr.go.id
+www.dpr.go.id
+data.dpr.go.id

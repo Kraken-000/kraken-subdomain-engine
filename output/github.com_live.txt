@@ -1,0 +1,14 @@
+blog.github.com
+admin.github.com
+api.github.com
+docs.github.com
+support.github.com
+www.github.com
+shop.github.com
+ssh.github.com
+help.github.com
+services.github.com
+status.github.com
+github.github.com
+live.github.com
+wiki.github.com
